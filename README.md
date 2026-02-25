@@ -1,4 +1,4 @@
 # Учебный проект "Закрывающий тег"
-## Автор Я.А.А.
-Cсылка на репозиторий https://github.com/Warghkhan/zakrivayuschiy-teg-f
-----
+## в рамках обучения в Яндекс.Практикуме на курсе Фулстек-разработчик
+Стек: HTML / CSS / JavaScript
+## Результат доступен по ссылке: https://warghkhan.github.io/zakrivayuschiy-teg-f/
